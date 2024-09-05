@@ -7,7 +7,7 @@ const HomeAddress = () => {
       <figure className="bg-slate-800 rounded-xl p-8 dark:bg-slate-800 shadow-lg max-w-md mx-auto">
         <Image
           className="h-40 rounded-full mx-auto object-cover"
-          src="/home.JPG"
+          src="/home.jpg"
           alt="Portrait of Mubeen Ahmad"
           width={150} height={150}
         />
